@@ -4,9 +4,9 @@
 
 This repo is my journey toward improving at TDD. Each folder contains a new challenge with three files.
 
-1. index - where the challenge logic is completed
-1. index.test - where the unit tests are written
-1. readme - description of the challenge
+1. **index** - where the challenge logic is completed
+1. **index.test** - where the unit tests are written
+1. **README** - description of the challenge
 
 I will be using Typescript and Jest to perform the tests.
 
