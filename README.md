@@ -1,4 +1,23 @@
-_all credit for this TDD summary goes to [agilealliance](<https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1)>). I have it here for quick reference_
+# My Summary
+
+[Uncle Bob](https://en.wikipedia.org/wiki/Robert_C._Martin), one of the founders of the Agile Manifesto and a big advocate for Test Driven Development recommends the best way to start is small and consistently.
+
+This repo is my journey toward improving at TDD. Each folder contains a new challenge with three files.
+
+1. index - where the challenge logic is completed
+1. index.test - where the unit tests are written
+1. readme - description of the challenge
+
+I will be using Typescript and Jest to perform the tests.
+
+The first challenges are the Kata's from the [TDDmanifesto](https://tddmanifesto.com/exercises/).
+
+Once those are completed they will gradually become more difficult challenges I find on the internet.
+
+<br>
+
+_Below is a great summary from [agilealliance](<https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1)>)._
+_all credit for this TDD summary goes to them. I simply have it here for quick reference_
 
 # Definition
 
