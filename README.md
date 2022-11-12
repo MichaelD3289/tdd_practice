@@ -2,6 +2,12 @@
 
 [Uncle Bob](https://en.wikipedia.org/wiki/Robert_C._Martin), one of the founders of the Agile Manifesto and a big advocate for Test Driven Development recommends the best way to start is small and consistently.
 
+His three rules for TDD are
+
+1. You are not allowed to write any production code unless it is to make a failing unit test pass.
+2. You are not allowed to write any more of a unit test than is sufficient to fail; and compilation failures are failures.
+3. You are not allowed to write any more production code than is sufficient to pass the one failing unit test.
+
 This repo is my journey toward improving at TDD. Each folder contains a new challenge with three files.
 
 1. **index** - where the challenge logic is completed
