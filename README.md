@@ -118,3 +118,13 @@ While the idea of having test elaboration precede programming is not original to
 - able to formulate a “roadmap” of planned unit tests for a macroscopic features (and to revise it as necessary)
 - able to “test drive” a variety of design paradigms: object-oriented, functional, event-drive
 - able to “test drive” a variety of technical domains: computation, user interfaces, persistent data access…
+
+**Some good additional resouces to check out on TDD**
+
+- [TDD-what it is and what it isnot](https://www.freecodecamp.org/news/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2/)
+
+- [TDD in a react fronted](https://startup-cto.net/tdd-in-a-react-frontend/)
+
+  - color theme is a little difficult on the eyes, however it has some great examples of different types of tests in a todo app.
+
+- [testdouble TDD Wiki](https://github.com/testdouble/contributing-tests/wiki/Test-Driven-Development)
