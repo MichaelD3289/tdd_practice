@@ -1,6 +1,6 @@
 import fizzbuzz from './index'
 
-describe.skip('fizzbuzz', () => {
+describe('fizzbuzz', () => {
   test('takes number as argument and returns correct string', () => {
     // arrange
     const data = [1, 2, 3, 5, 9, 10, 15]
